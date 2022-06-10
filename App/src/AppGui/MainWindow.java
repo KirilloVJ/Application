@@ -12,6 +12,7 @@ public class MainWindow extends JFrame {
 
 
     public MainWindow() {
+        
         prepareWindow();
 
         fon = new Calcul();
