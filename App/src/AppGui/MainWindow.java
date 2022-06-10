@@ -9,8 +9,7 @@ public class MainWindow extends JFrame {
     private int windowH = 680;
     private Calcul fon;
 
-
-
+    
     public MainWindow() {
         prepareWindow();
 
