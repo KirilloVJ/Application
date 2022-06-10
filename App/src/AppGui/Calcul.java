@@ -37,6 +37,7 @@ public class Calcul extends JPanel {
     add(Greeting);
     add(EnterArea);
     add(Nums);
+
     }
     public void GreetingText(){
         Greeting = new JPanel();
